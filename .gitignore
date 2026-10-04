@@ -10,3 +10,4 @@ dist/
 backend/uploads/
 frontend/src-backup-*/
 frontend/src-presentation-*/
+frontend/src/*.backup-*
